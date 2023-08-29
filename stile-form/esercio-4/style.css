@@ -1,0 +1,9 @@
+/* NON FUNZIONA SU CHROME */
+
+input[type="checkbox"] {
+  color: #ff0000;
+}
+
+input[type="checkbox"]:checked {
+  color: #008000;
+}

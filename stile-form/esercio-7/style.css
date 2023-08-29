@@ -1,0 +1,7 @@
+#num {
+  color: #ff0000;
+}
+
+#num:valid {
+  color: #008000;
+}

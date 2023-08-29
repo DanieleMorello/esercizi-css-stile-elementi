@@ -1,0 +1,7 @@
+#password {
+  color: #ff0000;
+}
+
+#password:valid {
+  color: #008000;
+}

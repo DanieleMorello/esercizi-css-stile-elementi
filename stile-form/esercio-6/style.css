@@ -1,0 +1,9 @@
+/* NON FUNZIONA */
+input[type="checkbox"]:checked + button {
+  color: #ffffff;
+  background-color: #008000;
+}
+
+button:disabled {
+  color: #808080;
+}

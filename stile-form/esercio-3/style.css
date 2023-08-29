@@ -1,0 +1,11 @@
+#mail {
+  color: #808080;
+}
+
+#mail:focus {
+  color: #0000ff;
+}
+
+#mail:disabled {
+  color: #808080;
+}
