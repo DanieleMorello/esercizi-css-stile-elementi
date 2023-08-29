@@ -1,0 +1,12 @@
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #9acd32;
+}
+
+a:visited:hover {
+  color: #800080;
+}

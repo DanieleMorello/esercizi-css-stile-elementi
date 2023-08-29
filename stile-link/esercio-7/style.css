@@ -1,0 +1,4 @@
+li a:visited {
+  color: orange;
+  text-decoration: line-through;
+}
